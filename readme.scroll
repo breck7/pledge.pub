@@ -1,0 +1,24 @@
+metaTags
+scrollCssTag
+scrollHeader
+
+title The Public Domain Pledge
+
+* I ______ dedicate all my past and future publications to the public domain. I support abolishing Intellectual Slavery laws and ensuring the right of the people to peacefully publish and use ideas. I dream of a world where all children have access to humanity's best information.
+
+* Signed ________________________
+
+* #LiberateIdeas #BuildPublicDomain #BringBackNapster #KidsOfKazaa #PublicDomainPledge
+
+pipeTable
+ Name|NameLink|Date|Country
+ Breck Yunits|https://twitter.com/breckyunits/status/1612704995752960002|January 10, 2023|United States
+
+git https://github.com/breck7/pledge.pub
+viewSourceBaseUrl https://github.com/breck7/pledge.pub/blob/main
+email feedback@pledge.pub
+baseUrl https://pledge.pub/
+permalink index.html
+scrollFooter
+css
+ body {max-width: 400px; margin: auto;}
