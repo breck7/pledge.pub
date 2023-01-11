@@ -8,6 +8,10 @@ title The Public Domain Pledge
 
 * Signed ________________________
 
+html
+ <br>
+
+
 * #LiberateIdeas #BuildPublicDomain #BringBackNapster #KidsOfKazaa #PublicDomainPledge
 
 pipeTable
@@ -20,6 +24,8 @@ viewSourceBaseUrl https://github.com/breck7/pledge.pub/blob/main
 email feedback@pledge.pub
 baseUrl https://pledge.pub/
 permalink index.html
-scrollFooter
 css
  body {max-width: 400px; margin: auto;}
+ h1.scrollTitleComponent {margin-bottom:20px;}
+ .scrollTableComponent {margin: 30px 0;}
+scrollFooter
