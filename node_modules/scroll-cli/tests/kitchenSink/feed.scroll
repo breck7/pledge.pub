@@ -1,0 +1,5 @@
+import settings.scroll
+
+permalink feed.xml
+
+printFeed index
